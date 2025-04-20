@@ -12,7 +12,7 @@
 ## Installation
 1. Clone repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/vivkv07/cmu_dataviz_session.git
 cd cmu-workshop-analytics
 ```
 
